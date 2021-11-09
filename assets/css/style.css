@@ -1,0 +1,84 @@
+body {
+    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;
+}
+
+section {
+    border: 1px solid rgb(139, 136, 136);
+    height: 500px;
+    overflow: scroll;
+}
+
+.colors div {
+    color: white;
+}
+
+.color-1 {
+    background-color: #177E89;
+}
+
+.color-2 {
+    background-color: #084C61;
+}
+
+.color-3 {
+    background-color: #DB3A34;
+}
+
+.color-4 {
+    background-color: #FFC857;
+}
+
+.color-5 {
+    background-color: #323031;
+}
+
+.font-1 {
+    font-family: 'Roboto';
+}
+
+.font-2 {
+    font-family: 'Roboto Condensed';
+}
+
+.font-3 {
+    font-family: 'Montserrat';
+}
+
+.font-4 {
+    font-family: 'Playfair Display';
+}
+
+.font-5 {
+    font-family: 'Josefin Sans';
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text-styles div {
+    background-color: rgb(227, 219, 235);
+}
+
+.style-1 h2 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Josefin Sans';
+}
+
+.style-2 h2 {
+    font-size: 25px;
+    font-weight: normal;
+    font-family: 'Roboto condensed';
+}
+
+.style-3 h2 {
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: 'Playfair Display';
+}
+
