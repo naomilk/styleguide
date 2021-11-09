@@ -1,15 +1,23 @@
 body {
-    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;
+    font-family: arial;
+    text-align: center;
+    background-color: #f5e6e6;
 }
 
 section {
     border: 1px solid rgb(139, 136, 136);
-    height: 500px;
-    overflow: scroll;
+    width: 700px;
+    margin: 10px auto;
+    background-color: white;
+    padding-bottom: 20px;
 }
 
 .colors div {
     color: white;
+    padding: 10px;
+    display: inline-block;
+    width: 250px;
+    margin: 5px;
 }
 
 .color-1 {
@@ -62,6 +70,8 @@ section {
 
 .text-styles div {
     background-color: rgb(227, 219, 235);
+    padding: 10px 0px;
+    margin: 10px 0px;
 }
 
 .style-1 h2 {
